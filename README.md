@@ -22,7 +22,7 @@ Lenguajes y herramientas:
 ### Proyectos
 Aquí puedes encontrar algunos ejemplos de mis proyectos relacionados con Data Science, análisis de datos, ingeniería de datos y aprendizaje automático:
 
-- Proyecto 1: [Api de datos y sistema de recomendación de películas]()
+- Proyecto 1: [Api de datos y sistema de recomendación de películas](https://github.com/mwmartinez/proyecto1_mlops.git)
 - Proyecto 2: [Análisis de datos sobre las telecomunicaciones en Argentina]()
 - Proyecto 3: [Título del proyecto]()
 
@@ -30,4 +30,4 @@ Aquí puedes encontrar algunos ejemplos de mis proyectos relacionados con Data S
 Si estás interesado en colaborar en proyectos o tienes oportunidades relacionadas con Data Science, ¡no dudes en contactarme!
 
 Correo electrónico: mwmartinez8@gmail.com
-LinkedIn: LinkedIn
+LinkedIn: https://www.linkedin.com/in/michael-martínez
