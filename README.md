@@ -10,15 +10,21 @@ Me apasiona trabajar en proyectos relacionados con análisis de datos, ingenier�
 Estoy buscando oportunidades que me permitan aplicar mi experiencia en Data Science y colaborar en proyectos desafiantes. Mi objetivo es seguir creciendo profesionalmente en el campo de la ciencia de datos y contribuir a la generación de conocimiento a partir de los datos.
 
 ### Tecnologías que uso
-Lenguajes y herramientas: Python (NumPy, Pandas, Matplotlib, Seaborn), ETL, estadística, bases de datos (SQL y NoSQL), Machine Learning (Scikit-learn), Power BI y Big Data (Docker, Hadoop, Spark).
+Lenguajes y herramientas: 
+- Python (NumPy, Pandas, Matplotlib, Seaborn)
+- ETL
+- Estadística
+- Bases de datos (SQL y NoSQL)
+- Machine Learning (Scikit-learn)
+- Power BI
+- Big Data (Docker, Hadoop, Spark).
 
 ### Proyectos
 Aquí puedes encontrar algunos ejemplos de mis proyectos relacionados con Data Science, análisis de datos, ingeniería de datos y aprendizaje automático:
 
-Proyecto 1: Título del proyecto
-Proyecto 2: Título del proyecto
-Proyecto 3: Título del proyecto
-Puedes ver más proyectos en mi repositorio de GitHub: https://github.com/mwmartinez
+- Proyecto 1: [Api de datos y sistema de recomendación de películas]()
+- Proyecto 2: [Análisis de datos sobre las telecomunicaciones en Argentina]()
+- Proyecto 3: [Título del proyecto]()
 
 ### Contacto
 Si estás interesado en colaborar en proyectos o tienes oportunidades relacionadas con Data Science, ¡no dudes en contactarme!
