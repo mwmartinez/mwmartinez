@@ -24,7 +24,7 @@ Aquí puedes encontrar algunos ejemplos de mis proyectos relacionados con Data S
 
 - Proyecto 1: [Api de datos y sistema de recomendación de películas](https://github.com/mwmartinez/proyecto1_mlops.git)
 - Proyecto 2: [Análisis de datos sobre las telecomunicaciones en Argentina](https://github.com/mwmartinez/Analisis_Internet.git)
-- Proyecto 3: [Título del proyecto]()
+- Proyecto 3: [Movilidad sostenible en Nueva York](https://github.com/mwmartinez/Proyecto_Movilidad_Sostenible_NYC.git)
 
 ### Contacto
 Si estás interesado en colaborar en proyectos o tienes oportunidades relacionadas con Data Science, ¡no dudes en contactarme!
