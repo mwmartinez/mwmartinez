@@ -12,9 +12,10 @@ Estoy buscando oportunidades que me permitan aplicar mi experiencia en Data Scie
 ### ¿Tecnologías que uso?
 Lenguajes y herramientas: 
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
-- ETL
+- ETL (local y nube)
 - Estadística
 - Bases de datos (SQL y NoSQL)
+- Microsoft Azure (Data lake, Databrick, Data Factory, Sql Database, Key vault)
 - Machine Learning (Scikit-learn)
 - Power BI
 - Big Data (Docker, Hadoop, Spark).
