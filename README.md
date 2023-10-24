@@ -23,10 +23,10 @@ Lenguajes y herramientas:
 ### Proyectos
 Aquí puedes encontrar algunos ejemplos de mis proyectos relacionados con Data Science, análisis de datos, ingeniería de datos y aprendizaje automático:
 
-- Proyecto 1: [Api de datos y sistema de recomendación de películas](https://github.com/mwmartinez/proyecto1_mlops.git)
-- Proyecto 2: [Análisis de datos sobre las telecomunicaciones en Argentina](https://github.com/mwmartinez/Analisis_Internet.git)
-- Proyecto 3: [Movilidad sostenible en Nueva York](https://github.com/mwmartinez/Proyecto_Movilidad_Sostenible_NYC.git)
-- Proyecto 4: [Review y Recomendación de restaurantes y afines en estados unidos](https://github.com/mwmartinez/PF_DS_REVIEWS_AND_RECOMMENDATIONS.git)
+- Proyecto 1: [Api De Datos y Sistema De Recomendación De Películas](https://github.com/mwmartinez/proyecto1_mlops.git)
+- Proyecto 2: [Análisis De Datos Sobre Las Telecomunicaciones En Argentina](https://github.com/mwmartinez/Analisis_Internet.git)
+- Proyecto 3: [Movilidad Sostenible En Nueva York](https://github.com/mwmartinez/Proyecto_Movilidad_Sostenible_NYC.git)
+- Proyecto 4: [Inversion Gastronomica y Afines En El Mercado De Los Estados Unidos](https://github.com/mwmartinez/PF_DS_REVIEWS_AND_RECOMMENDATIONS.git)
 
 ### Contacto
 Si estás interesado en colaborar en proyectos o tienes oportunidades relacionadas con Data Science, ¡no dudes en contactarme!
